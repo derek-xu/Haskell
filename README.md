@@ -1,7 +1,7 @@
-# Compile with: 
+### Compile with: 
     ghc -O2 RayTracer.hs
     
-# Run: 
+### Run: 
     ./RayTracer > image.ppm
 
 
