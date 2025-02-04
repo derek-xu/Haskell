@@ -18,6 +18,6 @@ A simple ray tracer written in Haskell that renders spheres with basic shading a
    ```sh
     ./raytacer > image.ppm
 
-3 **View or convert image**
+3. **View or convert image**
    ```sh
     convert image.ppm output.png
