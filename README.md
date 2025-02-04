@@ -15,7 +15,9 @@ A simple ray tracer written in Haskell that renders spheres with basic shading a
    ghc -O2 Main.hs -o raytracer
 
 2. **Run the tracer and save output**
+   ```sh
     ./raytacer > image.ppm
 
 3 **View or convert image**
+   ```sh
     convert image.ppm output.png
